@@ -1,1 +1,10 @@
-test
+PENDING.REQUEST.IN.1=file:src/data/pendingRequest
+MAIN.ENTRY.REQUEST.IN.2=file:src/data/mainEntry
+SINGLE.REQUEST.IN.3=file:src/data/singleRequest
+MULTI.REQUEST.IN.4=file:src/data/multipleRequests
+OFFLINE.PENDING.REQ.IN.5=file:src/data/offlinePendingRequest
+WEBSERVICE.REQUEST.IN.6=file:src/data/webServiceRequest
+RETRY.REQUEST.OUT.1=file:target/retry
+ERRORS.RESPONSE.OUT.2=file:target/errors
+UNKOWN.REQUEST.OUT.3=file:target/unknown
+CEWEBSERVICE.REQUEST.IN.7=file:src/data/ceWebServiceRequest
